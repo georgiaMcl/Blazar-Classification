@@ -2,7 +2,7 @@
 
 The python code files are were used in the study: Random Forests in High-Energy Astrophyics
 
-The yml file contains the details on the conda environemnt used to run the below python code files.
+The yml file, initialFermi.yaml, contains the details on the conda environemnt used to run the below python code files.
 
 InitialTesting: contains code and graphs created used to analyse the different features of the 3FGL catalogue. This was used to conduct pre-feature selection.
 
