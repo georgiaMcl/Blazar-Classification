@@ -1,4 +1,4 @@
-name: topicsEnv
+name: topicsEnvFermi
 channels:
   - defaults
 dependencies:
