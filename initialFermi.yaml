@@ -1,10 +1,10 @@
-name: initialFermi
+name: topicsEnv
 channels:
   - defaults
 dependencies:
 
-  - numpy>1.20
-  - matplotlib>=3.4
+  - numpy
+  - matplotlib
   - sklearn
   - seaborn
   - pandas
