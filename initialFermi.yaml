@@ -10,3 +10,4 @@ dependencies:
   - astropy
   - scipy
   - jupyter
+  - scikit-learn
