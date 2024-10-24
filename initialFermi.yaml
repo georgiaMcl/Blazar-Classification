@@ -5,9 +5,7 @@ dependencies:
 
   - numpy
   - matplotlib
-  - sklearn
   - seaborn
   - pandas
-  - math
   - astropy
   - scipy
