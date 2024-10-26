@@ -10,4 +10,4 @@ dependencies:
   - astropy
   - scipy
   - jupyter
-  - scikit-learn
+  - scikit-learn >= 1.5 
