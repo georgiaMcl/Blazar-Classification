@@ -1,6 +1,6 @@
-# Topics-in-computer-Science
+# Blazar Classification
 
-Random Forests in High-Energy Astrophyics
+Project Name: Random Forests in High-Energy Astrophyics
 
 The goal of this project was to develop a machine learning algorithm, using the Random Forest model, to classify Blazar Candidates of Uncertain Type (BCUs) from the Fermi-LAT point source catalogues, into the two subclasses of blazars, BL Lacertae (BL Lacs) and Flat-Spectrum Radio Quasars (FSRQs).
 
@@ -12,7 +12,7 @@ Another Random Forest model was trained on 100% of the 3FGL BL Lac and FSRQ data
 
 The files used to develop the model are described below: 
 
-- The yml file, initialFermi.yaml, contains the details on the conda environment used to run the below Python code files.
+- The yaml file, initialFermi.yaml, contains the details on the conda environment used to run the below Python code files.
 
 - InitialTesting: contains the code and graphs created that were used to analyse the different features of the 3FGL catalogue. This was used to conduct pre-feature selection.
 
