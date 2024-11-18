@@ -2,7 +2,7 @@
 
 The python code files are were used in the study: Random Forests in High-Energy Astrophyics
 
-The goal of this project was to develop a machine learning algorithm, using the Random Forest model, to classify Blazar Candiates of Uncertain Type (BCUs) from the Fermi-LAT point source catalogues, into the two subclasses of blazars, BL Lacertae (BL Lacs) and Flat-spectrum radio quasars (FSRQs).
+The goal of this project was to develop a machine learning algorithm, using the Random Forest model, to classify Blazar Candiates of Uncertain Type (BCUs) from the Fermi-LAT point source catalogues, into the two subclasses of blazars, BL Lacertae (BL Lacs) and Flat-Spectrum Radio Quasars (FSRQs).
 
 The two catalogues analysed were the 3FGL (data from 2008 to 2012) and 4FGL-DR4 (data from 2008 to 2022) catalogues.
 
