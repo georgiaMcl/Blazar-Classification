@@ -1,10 +1,10 @@
-# Topics-in-computer-Science
+# Blazar Classification
 
-Random Forests in High-Energy Astrophyics
+Project Name: Random Forests in High-Energy Astrophyics
 
 The goal of this project was to develop a machine learning algorithm, using the Random Forest model, to classify Blazar Candidates of Uncertain Type (BCUs) from the Fermi-LAT point source catalogues, into the two subclasses of blazars, BL Lacertae (BL Lacs) and Flat-Spectrum Radio Quasars (FSRQs).
 
-The two catalogues analysed were the 3FGL (data from 2008 to 2012) and 4FGL-DR4 (data from 2008 to 2022) catalogues.
+The two catalogues analysed were the 3FGL (data from 2008 to 2012 containing 3000 data entries) and 4FGL-DR4 (data from 2008 to 2022 containing 7000 data entries) catalogues.
 
 The Random Forest model was trained on 70% 3FGL BL Lac and FSRQ data, and tested against the remaining 30% BL Lac and FSRQ data.
 
